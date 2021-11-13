@@ -1,4 +1,5 @@
 # Maintainer: mztikk <mztikk@outlook.de>
+pkgbase=yearsfx
 pkgname=yearsfx-git
 pkgver=0.1.0
 pkgrel=1
