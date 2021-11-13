@@ -24,6 +24,7 @@ Hello World2021
 
 ```bash
 echo "test" | yearsfx 1994 2000
+
 test1994
 test1995
 test1996
