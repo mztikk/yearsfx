@@ -11,11 +11,11 @@ struct Cli {
 }
 
 fn main() {
+    let args = Cli::from_args();
+
     if atty::is(Stream::Stdin) {
         return;
     }
-
-    let args = Cli::from_args();
 
     let stdin = io::stdin();
     for line in stdin.lock().lines() {
