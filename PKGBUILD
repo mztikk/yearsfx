@@ -1,5 +1,5 @@
 # Maintainer: mztikk <mztikk@outlook.de>
-pkgname=yearsfx
+pkgname=yearsfx-git
 pkgver=0.1.0
 pkgrel=1
 makedepends=('rust' 'cargo')
