@@ -7,6 +7,7 @@ description = "Appends years in range to input"
 authors = ["mztikk <mztikk@outlook.de>"]
 repository = "https://github.com/mztikk/yearsfx"
 homepage = "https://github.com/mztikk/yearsfx"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
