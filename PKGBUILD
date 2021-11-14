@@ -12,5 +12,5 @@ license=('MIT')
 
 package() {
     cd $srcdir
-    cargo install --no-track --all-features --root "$pkgdir/usr/" --path .
+    cargo install --no-track --all-features --root "$pkgdir/usr/" --path ../yearsfx
 }
